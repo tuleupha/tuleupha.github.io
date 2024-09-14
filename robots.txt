@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tuleupha.github.io/sitemap.html.gz
+Sitemap: https://tuleupha.github.io/app/sitemap.html.gz
+Sitemap: https://tuleupha.github.io/assets/sitemap.html.gz
+Sitemap: https://tuleupha.github.io/css/sitemap.html.gz
+Sitemap: https://tuleupha.github.io/includes/sitemap.html.gz
+Sitemap: https://tuleupha.github.io/item/sitemap.html.gz
+Sitemap: https://tuleupha.github.io/src/sitemap.html.gz
